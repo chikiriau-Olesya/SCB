@@ -146,6 +146,10 @@ a {
   height: 13vw;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 /* .new {
   width: 100px;
   height: 100px;
